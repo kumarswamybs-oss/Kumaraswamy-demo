@@ -1,4 +1,4 @@
 # Kumaraswamy-demo
 This is first git repository.
 <br>
-Author-Kumarswamy
+Author-Kumarswamy (my college)
